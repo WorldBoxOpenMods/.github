@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-<!--
+## Tips for Modders
+1. Generate/Download Assembly-CSharp.pdb and put it under worldbox_Data/Managed together with Assembly-CSharp.dll. So that, you can get detailed stacktrace when an exception happens.
+2. Got Assembly-CSharp.xml and put it together with the Assembly-CSharp.dll your .csproj referenced. So that, you can get unofficial document for Assembly-CSharp.dll.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 ## How To Join in
 
 Just send an email titled "WorldBoxOpenMods" and with your github username to <wbopenmods@gmail.com>. Then wait for at most a week.
