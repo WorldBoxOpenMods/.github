@@ -7,4 +7,4 @@
 
 ## How To Join in
 
-Just send an email titled "WorldBoxOpenMods" and with your github username to <wbopenmods@gmail.com>. Then wait for at most a week.
+Just send an email titled "WorldBoxOpenMods" and with your github username as content and your mod as attachment to <wbopenmods@gmail.com>. Then wait for at most a week.
