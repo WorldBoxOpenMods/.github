@@ -26,4 +26,4 @@ Just send an email titled "WorldBoxOpenMods" and with your github username as co
 
 ## 如何加入
 
-给<wbopenmods@gmail.com>发送一封标题为"WorldBoxOpenMods", 正文为你的github用户id, 并将你的mod(质量不作要求, 只要求原创并且有实际内容)作为附件的邮件. 然后等待最多一周时间. 不需要额外的沟通, 不必思考如何发起对话.
+给<wbopenmods@gmail.com>发送一封标题为"WorldBoxOpenMods", 正文为你的github用户id, 并将你的mod(质量不作要求, 只要求原创并且有实际内容)作为附件的邮件. 然后等待最多一周时间。
